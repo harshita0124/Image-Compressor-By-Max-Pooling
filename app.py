@@ -6,7 +6,6 @@ from PIL import Image
 #                         ALGORITHM
 #=============================================================
 
-
 def image_compression_algorithm(arr, stride_x, stride_y, sub_rows, sub_cols):
     rows, cols = arr.shape 
 
@@ -75,6 +74,7 @@ if upload_image:
         st.image(new_image)
         row, col = new_image.size
         st.info(f"{((row * col) / (1024 * 1024)):.4f} MB")
+
 
 
 
