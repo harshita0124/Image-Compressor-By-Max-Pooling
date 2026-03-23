@@ -23,6 +23,7 @@ def image_compression_algorithm(arr, stride_x, stride_y, sub_rows, sub_cols):
         rr = rr + 1
 
     return max_pooling_array
+    
 
 #==============================================================
 #                     Page Configuration
