@@ -41,6 +41,7 @@ Main implementation available in: https://image-compreappr-by-max-pooling.stream
 | Pillow (PIL) | Image Processing  |
 
 
+
 ## Project Structure:
 
 ```
