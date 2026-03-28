@@ -62,6 +62,7 @@ Image-Compressor-By-Max-Pooling/
 3. Max Pooling operation compresses image dimensions.
 4. Compressed image is displayed.
 5. Size comparison is shown instantly.
+   
 
 ## Application Output :
 
