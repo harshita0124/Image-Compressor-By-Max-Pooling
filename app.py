@@ -2,8 +2,6 @@ import streamlit as st
 import numpy as np
 from PIL import Image
 
-
-
 #=============================================================
 #                         ALGORITHM
 #=============================================================
@@ -25,7 +23,6 @@ def image_compression_algorithm(arr, stride_x, stride_y, sub_rows, sub_cols):
         rr = rr + 1
 
     return max_pooling_array
-    
 
 #==============================================================
 #                     Page Configuration
@@ -35,8 +32,6 @@ page_config = st.set_page_config(
     page_title = "Image Compression Using Max Pooling",
     page_icon = "✨"
 )
-
-
 
 #==============================================================
 #                    Main Page UI
