@@ -2,7 +2,6 @@
 
 ## Project Overview ;
 
-
 - This project is a Streamlit-based Image Compression Web Application that compresses images using the Max Pooling technique, a concept widely used in Computer Vision and Convolutional Neural Networks (CNNs).
 - The application reduces image size while preserving important visual features by applying pooling operations separately on RGB channels.
 
